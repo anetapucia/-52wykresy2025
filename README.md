@@ -6,8 +6,9 @@ Pierwsza wizualizacja - dane które pozytywnie mnie zaskoczyły. Byłam przekona
 ![lasy](https://github.com/user-attachments/assets/349731f4-9eb7-428d-982e-a103bcae6c63)
 
 Grafika wykonana w Canvie. Inspiracją do niej była moduł wcześniej wspomnianego kursu na temat "lekkostrawnego" storytellingu danych.
+<br /> 
+<br /> 
 
-
-
-### 2. 
+### 2. Big Mac w cenie
 ![bigmac](https://github.com/user-attachments/assets/71b24e1a-80b3-4622-904e-6599071d0afc)
+Eksploracja wykresów schodkowych z kolejnego modułu kursu. Wykonane w narzędziu Datawrapper - proste, darmowe, a jednak daje sporo możliwości. Na pewno będę korzystać dalej.
