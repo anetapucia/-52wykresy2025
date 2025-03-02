@@ -17,3 +17,11 @@ Eksploracja wykresów schodkowych z kolejnego modułu kursu. Wykonane w narzędz
 
 ### 3. Mediana wieku w Europie Centralnej
 ![ezMUL-co-ma-najwi-kszy-wp-yw-na-median-wieku-w-niemczech-](https://github.com/user-attachments/assets/424fab32-8558-47b7-ad60-2c7203302616)
+<br /> 
+<br /> 
+
+### 4. Satysfakcja życiowa vs. PKB
+W ramach ćwiczeń odtworzyłam wykres ze strony Our World in data.
+![image](https://github.com/user-attachments/assets/156ce768-7cdc-442c-ae47-6a6277a0d262)
+
+Oryginalny wykres: https://ourworldindata.org/grapher/gdp-vs-happiness?time=2023.
