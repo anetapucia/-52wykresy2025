@@ -22,6 +22,7 @@ Eksploracja wykresów schodkowych z kolejnego modułu kursu. Wykonane w narzędz
 
 ### 4. Satysfakcja życiowa vs. PKB
 W ramach ćwiczeń odtworzyłam wykres ze strony Our World in data.
+Wersja interaktywna: https://www.datawrapper.de/_/0505j/
 ![image](https://github.com/user-attachments/assets/156ce768-7cdc-442c-ae47-6a6277a0d262)
 
 Oryginalny wykres: https://ourworldindata.org/grapher/gdp-vs-happiness?time=2023.
