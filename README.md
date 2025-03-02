@@ -26,3 +26,10 @@ Wersja interaktywna: https://www.datawrapper.de/_/0505j/
 ![image](https://github.com/user-attachments/assets/156ce768-7cdc-442c-ae47-6a6277a0d262)
 
 Oryginalny wykres: https://ourworldindata.org/grapher/gdp-vs-happiness?time=2023.
+<br /> 
+<br /> 
+
+### 5. Wydatki ślubno - weselne
+Wersja interaktywna: https://public.flourish.studio/visualisation/21656252/
+![image](https://github.com/user-attachments/assets/a7632f89-231f-417f-865a-cac0c62030db)
+
