@@ -30,6 +30,16 @@ Oryginalny wykres: https://ourworldindata.org/grapher/gdp-vs-happiness?time=2023
 <br /> 
 
 ### 5. Wydatki ślubno - weselne
-Wersja interaktywna: https://public.flourish.studio/visualisation/21656252/
+Wersja interaktywna: 
+https://public.flourish.studio/visualisation/21656252/
 ![image](https://github.com/user-attachments/assets/a7632f89-231f-417f-865a-cac0c62030db)
+<br /> 
+<br />
+
+### 6. Kawa w Europie
+Dane wygenerowałam za pomocą Chat GPT. Bardzo ciekawa opcja. 
+Wersja interaktywna:
+https://www.datawrapper.de/_/GaZ37/?v=2
+![GaZ37-nordic-countries-dominate-coffee-drinking-the-average-finn-drinks-almost-5-cups-per-day-](https://github.com/user-attachments/assets/126c89d0-0f93-4357-ba84-cdde264c5a33)
+
 
