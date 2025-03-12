@@ -42,4 +42,14 @@ Wersja interaktywna:
 https://www.datawrapper.de/_/GaZ37/?v=2
 ![GaZ37-nordic-countries-dominate-coffee-drinking-the-average-finn-drinks-almost-5-cups-per-day-](https://github.com/user-attachments/assets/126c89d0-0f93-4357-ba84-cdde264c5a33)
 
+Źródła jakie przedstawił Chat GPT: The data I provided is based on estimates from multiple sources, including reports from:
+International Coffee Organization (ICO), Euromonitor International, Statista, WorldAtlas, National coffee associations (e.g., Finnish Coffee Information, German Coffee Association, etc.)
+The most recent comprehensive studies on coffee consumption in Europe typically come from 2021–2023, but exact numbers can vary slightly depending on methodology.
+<br /> 
+<br />
+
+### 7. Polska - miasto i wieś
+![miasto wieś](https://github.com/user-attachments/assets/ac1b8a14-3504-4046-aad1-e70337935e4d)
+
+
 
