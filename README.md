@@ -55,7 +55,7 @@ The most recent comprehensive studies on coffee consumption in Europe typically 
 
 ### 8. Urodzenia pozamałżeńskie w Polsce
 
-![image](https://github.com/user-attachments/assets/5af8e6c1-3569-450b-a13d-894cdbca2c39)
+![image](https://github.com/user-attachments/assets/20abda29-0d94-4f4f-a174-e6f2d6ee79ed)
 
 
 
