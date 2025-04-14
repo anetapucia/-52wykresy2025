@@ -22,7 +22,7 @@ Kilka wykresów słupkowych obok siebie. Wydaje mi się, że jest to bardzo czyt
 <br /> 
 
 ### 4. Satysfakcja życiowa vs. PKB
-W ramach ćwiczeń odtworzyłam wykres ze strony Our World in data.
+W ramach ćwiczeń odtworzyłam wykres ze strony Our World in Data. Widać, jak powyżej pewnego poziomu bogactwa nie mamy już wzrostu satysfakcji. Jednak początek wykresu chyba nikogo nie dziwi. <br /> 
 Wersja interaktywna: https://www.datawrapper.de/_/0505j/
 ![image](https://github.com/user-attachments/assets/156ce768-7cdc-442c-ae47-6a6277a0d262)
 
