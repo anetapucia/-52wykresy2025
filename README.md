@@ -1,5 +1,5 @@
 # #52wykresy2025
-Zainspirowana projektami Klaudii Stano oraz Eli Wajdzik postanowiłam, że i ja spróbuję swoich sił w projekcie i w każdym tygodniu przygotuję jakąś ciekawą dla mnie wizualizację danych. Będzie to eksploracja różnych tematów, technik i narzędzi. Początkowe przykłady będą pochodzić z zadań domowych przygotowanych na kurs prowadzony przez Klaudię - "Wykresy dla wkręconych".
+Zainspirowana projektami Klaudii Stano z jezykdanych.pl postanowiłam, że i ja spróbuję swoich sił w projekcie i w każdym tygodniu przygotuję jakąś ciekawą dla mnie wizualizację danych. Będzie to eksploracja różnych tematów, technik i narzędzi. Początkowe przykłady będą pochodzić z zadań domowych przygotowanych na kurs prowadzony przez Klaudię - "Wykresy dla wkręconych".
 
 ### 1. Jest dobrze! 
 Pierwsza wizualizacja - dane które pozytywnie mnie zaskoczyły. Byłam przekonana, że nasze lasy się kurczą, a tu taka niespodzianka.
@@ -29,14 +29,7 @@ Oryginalny wykres: https://ourworldindata.org/grapher/gdp-vs-happiness?time=2023
 <br /> 
 <br /> 
 
-### 5. Wydatki ślubno - weselne
-Wersja interaktywna: 
-https://public.flourish.studio/visualisation/21656252/
-![image](https://github.com/user-attachments/assets/a7632f89-231f-417f-865a-cac0c62030db)
-<br /> 
-<br />
-
-### 6. Kawa w Europie
+### 5. Kawa w Europie
 Dane wygenerowałam za pomocą Chat GPT. Bardzo ciekawa opcja. 
 Wersja interaktywna:
 https://www.datawrapper.de/_/GaZ37/?v=2
@@ -48,15 +41,20 @@ The most recent comprehensive studies on coffee consumption in Europe typically 
 <br /> 
 <br />
 
-### 7. Polska - miasto i wieś
+### 6. Polska - miasto i wieś
 ![miasto wieś](https://github.com/user-attachments/assets/ac1b8a14-3504-4046-aad1-e70337935e4d)
 <br /> 
 <br />
 
-### 8. Urodzenia pozamałżeńskie w Polsce
+### 7. Urodzenia pozamałżeńskie w Polsce
 
 ![image](https://github.com/user-attachments/assets/929b0f6c-01cf-4848-b0c3-33cafb98a8d2)
 
+### 8. Chyba lubię dramaty.
+
+Wersja interaktywna: https://public.flourish.studio/visualisation/22651006/
+
+![filmweb sunburst](https://github.com/user-attachments/assets/a895f511-49be-4f94-af32-eaa5a8c4a0dc)
 
 
 
