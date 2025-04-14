@@ -1,8 +1,8 @@
 # #52wykresy2025
-Zainspirowana projektami Klaudii Stano z jezykdanych.pl postanowiłam, że i ja spróbuję swoich sił w projekcie i w każdym tygodniu przygotuję jakąś ciekawą dla mnie wizualizację danych. Będzie to eksploracja różnych tematów, technik i narzędzi. Początkowe przykłady będą pochodzić z zadań domowych przygotowanych na kurs prowadzony przez Klaudię - "Wykresy dla wkręconych".
+Zainspirowana projektem, który zobaczyłam u Klaudii Stano z jezykdanych.pl postanowiłam, że i ja spróbuję swoich sił w projekcie i w każdym tygodniu przygotuję jakąś ciekawą dla mnie wizualizację danych. Będzie to eksploracja różnych tematów, technik i narzędzi. Początkowe przykłady będą pochodzić z zadań domowych przygotowanych na kurs prowadzony przez Klaudię - "Wykresy dla wkręconych".
 
 ### 1. Jest dobrze! 
-Pierwsza wizualizacja - dane które pozytywnie mnie zaskoczyły. Byłam przekonana, że nasze lasy się kurczą, a tu taka niespodzianka.
+Dane, które pozytywnie mnie zaskoczyły. Byłam przekonana, że nasze lasy się kurczą, a tu taka niespodzianka.
 ![lasy](https://github.com/user-attachments/assets/349731f4-9eb7-428d-982e-a103bcae6c63)
 
 Grafika wykonana w Canvie. Inspiracją do niej była moduł wcześniej wspomnianego kursu na temat "lekkostrawnego" storytellingu danych.
@@ -16,6 +16,7 @@ Eksploracja wykresów schodkowych z kolejnego modułu kursu. Wykonane w narzędz
 <br /> 
 
 ### 3. Mediana wieku w Europie Centralnej
+Kilka wykresów słupkowych obok siebie. Wydaje mi się, że jest to bardzo czytelna i prosta forma. Przydatna w wielu przypadkach.
 ![ezMUL-co-ma-najwi-kszy-wp-yw-na-median-wieku-w-niemczech-](https://github.com/user-attachments/assets/424fab32-8558-47b7-ad60-2c7203302616)
 <br /> 
 <br /> 
