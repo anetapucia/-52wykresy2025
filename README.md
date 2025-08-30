@@ -51,12 +51,14 @@ The most recent comprehensive studies on coffee consumption in Europe typically 
 
 ![image](https://github.com/user-attachments/assets/929b0f6c-01cf-4848-b0c3-33cafb98a8d2)
 
-### 8. Chyba lubię dramaty.
+### 8. Drama(t) Queen
 
 Wersja interaktywna: https://public.flourish.studio/visualisation/22651006/
 
 ![filmweb sunburst](https://github.com/user-attachments/assets/a895f511-49be-4f94-af32-eaa5a8c4a0dc)
 
+### 9. Insta kolory
 
+Wizualizacja tym razem bez liczb. Za pomocą coolors.co pobrałam palety najczęściej występujących kolorów z poich postów na instagramie. Ułożone w kolejności od najnowszych, zgodnie z oryginalnym wyświetlaniem. Widać ożywienie w najnowszych zdjęciach :)
 
-
+![Tekst akapitu](https://github.com/user-attachments/assets/e3dcffe5-6e40-4146-8d5d-1f46992eed60)
